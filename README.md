@@ -132,4 +132,4 @@ Generated granular ROI/contribution estimates per `(geo, year, month, channel)`:
 
 **Rafael Rincón Ramírez**  
 Data Scientist
-Email: rafael.rincon.ramirez@gmail.com
+Email: rafarinra@gmail.com
