@@ -76,7 +76,6 @@ The objective of this project is to build a robust Media Mix Model (MMM) that qu
 ## 🧪 Model Validation
 
 - **Ljung–Box test**: No significant autocorrelation (p = 0.118)
-- **Breusch–Pagan test**: Heteroskedasticity present (p < 0.001)
 - **ACF/PACF**: Residuals show no strong temporal structure
 
 ✅ Most linear model assumptions are met.
